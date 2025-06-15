@@ -82,19 +82,4 @@ footer {
   list-style: none;      
 }
 
-ul {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 60px;display: flex;
-    flex-direction: column; 
-    align-items: center;
-}
 
-li {
-    list-style: disc;
-    padding: -15px;
-    display: flex;
-    flex-direction: column; 
-    align-items: center;
-}
