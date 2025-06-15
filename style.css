@@ -73,3 +73,7 @@ footer {
     font-size: 1em;
     color: inherit;
 }
+
+.Tracklist li {
+  text-align: center;
+}
