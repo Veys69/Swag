@@ -82,4 +82,28 @@ footer {
   list-style: none;      
 }
 
+.countdown-container {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f0f0f0; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
+.countdown-container h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#countdown {
+    font-size: 2em;
+    font-weight: bold;
+    color: #007bff; 
+}
+
+#countdown span {
+    display: inline-block;
+    min-width: 40px; 
+    text-align: center;
+}
