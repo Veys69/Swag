@@ -16,7 +16,7 @@ toggle.addEventListener('click', () => {
 });
 
 // Set the album release date (Year, Month (0-11), Day, Hour, Minute, Second)
-const albumReleaseDate = new Date("2025-06-16T03:00:00").getTime(); 
+const albumReleaseDate = new Date("2025-08-16T03:00:00").getTime(); 
 
 const countdownFunction = setInterval(function() {
     const now = new Date().getTime();
